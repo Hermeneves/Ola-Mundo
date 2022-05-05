@@ -1,0 +1,38 @@
+body{
+	margin: 0;
+	font-family:arial;
+}
+
+header{
+	background-color:#009C00;
+	width: 100%;
+	box-shadow:0 40px 5px rgba(0,156,0,.2);
+}
+
+
+
+header a{
+	text-decoration:none;
+	color:white;
+	font-weight:bold;
+	display:block;
+	text-align: right;
+	font-size: 2em;
+	height: 40px;
+	padding: 10px 10px;
+}
+
+section.sec-principal{
+	margin:50px 250px 0 250px;
+}
+
+
+footer{
+	background-color:#003400;
+	height: 100px;
+}
+
+footer div{
+	padding-top:15px;
+}
+
